@@ -67,7 +67,7 @@ body {
   color: white;
   font-weight: bold;
   cursor: pointer;
-  transition: 0.35s;
+  transition: 0.3s;
 }
 
 .menu button:hover {
